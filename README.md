@@ -7,16 +7,30 @@ I'm Shakti Shwetanshu, a Senior Software Developer with an illustrious track rec
 ## Tech Stack
 
 ### Programming Languages
-[![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white)](link_to_your_python_project) [![Golang](https://img.shields.io/badge/-Golang-blue?logo=go&logoColor=white)](link_to_your_golang_project) [![React](https://img.shields.io/badge/-React-yellow?logo=react&logoColor=black)](link_to_your_react_project)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/) [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+
 
 ### DevOps Tools
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes&logoColor=white)](link_to_kubernetes_project) [![GKE](https://img.shields.io/badge/-GKE-blue?logo=google-cloud&logoColor=white)](link_to_gke_project) [![EKS](https://img.shields.io/badge/-EKS-orange?logo=amazon-aws&logoColor=white)](link_to_eks_project) [![Terraform](https://img.shields.io/badge/-Terraform-black?logo=terraform&logoColor=white)](link_to_terraform_project) [![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)](link_to_docker_project) [![Jenkins](https://img.shields.io/badge/-Jenkins-darkgreen?logo=jenkins&logoColor=white)](link_to_jenkins_project) [![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white)](link_to_git_project) [![Ansible](https://img.shields.io/badge/-Ansible-black?logo=ansible&logoColor=white)](link_to_ansible_project)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/) [![GKE](https://img.shields.io/badge/-GKE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/kubernetes-engine/)
+ [![EKS](https://img.shields.io/badge/-EKS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/eks/)
+[![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+ [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
 
 ### Monitoring Tools
-[![Prometheus](https://img.shields.io/badge/-Prometheus-blue?logo=prometheus&logoColor=white)](link_to_prometheus_project) [![Grafana](https://img.shields.io/badge/-Grafana-blue?logo=grafana&logoColor=white)](link_to_grafana_project) [![Datadog](https://img.shields.io/badge/-Datadog-blue?logo=datadog&logoColor=white)](link_to_datadog_project) [![Fluentd](https://img.shields.io/badge/-Fluentd-blue?logo=fluentd&logoColor=white)](link_to_fluentd_project) [![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-blue?logo=elastic&logoColor=white)](link_to_elk_stack_project) [![Sumo Logic](https://img.shields.io/badge/-Sumo%20Logic-blue?logo=sumologic&logoColor=white)](link_to_sumo_logic_project)
+[![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
+ [![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
+[![Fluentd](https://img.shields.io/badge/-Fluentd-0A87B3?style=for-the-badge&logo=fluentd&logoColor=white)](https://www.fluentd.org/)
+ [![ELK](https://img.shields.io/badge/-ELK%20Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elk-stack)
+[![Sumo Logic](https://img.shields.io/badge/-Sumo%20Logic-9768D1?style=for-the-badge&logo=sumologic&logoColor=white)](https://www.sumologic.com/)
 
 ### Machine Learning
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-yellow?logo=tensorflow&logoColor=white)](link_to_tensorflow_project) [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-blue?logo=python&logoColor=white)](link_to_deep_learning_project)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+[![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge&logoColor=white)](link_to_deep_learning_project)
+
 
 <!-- ## Projects
 
