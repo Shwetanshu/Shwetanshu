@@ -16,7 +16,7 @@ I'm Shakti Shwetanshu, a Senior Software Developer with an illustrious track rec
 [![Prometheus](https://img.shields.io/badge/-Prometheus-blue?logo=prometheus&logoColor=white)](link_to_prometheus_project) [![Grafana](https://img.shields.io/badge/-Grafana-blue?logo=grafana&logoColor=white)](link_to_grafana_project) [![Datadog](https://img.shields.io/badge/-Datadog-blue?logo=datadog&logoColor=white)](link_to_datadog_project) [![Fluentd](https://img.shields.io/badge/-Fluentd-blue?logo=fluentd&logoColor=white)](link_to_fluentd_project) [![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-blue?logo=elastic&logoColor=white)](link_to_elk_stack_project) [![Sumo Logic](https://img.shields.io/badge/-Sumo%20Logic-blue?logo=sumologic&logoColor=white)](link_to_sumo_logic_project)
 
 ### Machine Learning
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-blue?logo=tensorflow&logoColor=white)](link_to_tensorflow_project) [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-blue?logo=python&logoColor=white)](link_to_deep_learning_project)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-yellow?logo=tensorflow&logoColor=white)](link_to_tensorflow_project) [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-blue?logo=python&logoColor=white)](link_to_deep_learning_project)
 
 <!-- ## Projects
 
